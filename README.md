@@ -23,7 +23,7 @@ Open `index.html` in your browser to preview the page.
 
 ### Live Preview
 
-<a href="index.html">Live Preview</a>
+<a href="https://sabbirhosen44.github.io/HTML-CSS-Assignment1/">Live Preview</a>
 
 ## Notes
 
